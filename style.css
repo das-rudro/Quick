@@ -1,0 +1,142 @@
+*{
+    margin: 0 auto;
+}
+
+.header{
+    width: 100%;
+    border-bottom: 2px solid #ccc;
+}
+
+.container{
+    width: 1140px;
+    overflow: hidden;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.logo{
+    float: left;
+    width: 20%;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.menu{
+    float: right;
+    text-align: right;
+    width: 80%;
+    padding-right: 40px;
+    margin-top: -30px;
+}
+
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: #979AAC;
+    font-size: 15px;
+    padding-right: 30px;
+}
+.menu ul li:hover a{
+    color: #0F2656;
+    transition: 2s;
+}
+.intro-top h1{
+    font-size: 38px;
+    font-family: system-ui;
+    color: #0F2656;
+    padding-top: 40px;
+}
+.intro-top h1 span{
+    color: #008AFF;
+}
+.intro-top p{
+    color: #6EA5DA;
+    font-size: 15px;
+    line-height: 18px;
+    padding-bottom: 30px;
+    padding-top: 25px;
+}
+   
+}
+.img01{}
+.intro-bottom{
+    padding-bottom: 170px;
+    padding-top: 40px;
+}
+.left-intro{
+    width: 45%;
+    float: left;
+    text-align: right;
+}
+.left-intro h1{
+    color: #F15767;
+    font-weight: bold;
+    font-size: 38px;
+}
+.left-intro p{
+    padding-left: 300px;
+    color: #82778F;
+    font-size: 14px;
+    line-height: 14px;
+}
+.right-intro{
+    float: left;
+    text-align: left;
+    margin-left: 30px;
+}
+.right-intro h1{
+    color: #0F2656;
+    font-weight: bolder;
+    font-family: system-ui;
+    line-height: 40px;
+}
+.gallery{
+    width: 100%;
+}
+.projectidea{
+    width: 30%;
+    float: left;
+    overflow: hidden;
+    margin-right: 5%;
+    background-color:#FDEBED;
+    margin-bottom: 60px;
+    
+}
+.projectidea2{
+    width: 30%;
+    float: left;
+    overflow: hidden;
+    margin-right: 5%;
+    background-color:#EBF9F4;
+    margin-bottom: 60px;
+}
+.projectidea3{
+    width: 30%;
+    float: left;
+    overflow: hidden;
+    background-color:#FFF7E8;
+    margin-bottom: 60px;
+}
+.image234{}
+.gallery-bottom{
+    width: 88%;
+    overflow: hidden;
+    padding-bottom: 30px;
+}
+.gallery-bottom h3{}
+.gallery-bottom p{}
+.footer{
+    padding: 20px 0px;
+    background-color: #008AFF
+}
+.content p{
+    color: #61C7FF;
+}
+.content p span{
+    color:white;
+}
+
